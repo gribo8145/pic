@@ -1,3 +1,5 @@
+package ru.stqa.pft.sanbox;
+
 public class Pic {
     public static void main(String[] args){
 
@@ -14,7 +16,7 @@ public class Pic {
 
            }
 
-           
+
            public static void hello(String somebody){
 
                System.out.println("Hello " + somebody + "!");
